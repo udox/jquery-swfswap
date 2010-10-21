@@ -1,4 +1,4 @@
-This is a simple js (jQuery based) plugin to swap div content (of img if you like) to external html (or img) file. e.g. if you want to swap flash content for iOS devices.
+This is a simple js (jQuery based) plugin to swap div content (of img if you like) with external html (or img) file. e.g. if you want to swap flash content for iOS devices.
 
 How to:
 ------------------
